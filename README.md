@@ -6,6 +6,9 @@ Technically supports all devices with CLDC 1.1, MIDP 2.0 with JSR-75 and JSR-135
 
 Currently tested on an Nokia E72 / J2ME Loader emulator.
 
+**You NEED an APPLE MUSIC SUBSCRIPTION to use this app**
+
+
 ### Some features:
 
 - Search and extended queuing to play artists, songs, albums and playlists from both the Apple Music catalog and your AM library
